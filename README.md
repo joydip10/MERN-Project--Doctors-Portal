@@ -24,3 +24,7 @@
 - CORS middleware
 - Fileupload middleware
 - CRUD
+
+### Enter as an admin
+- email: admin@admin.com
+- password: 123456
